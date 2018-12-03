@@ -1,0 +1,3 @@
+$ wget https://s3-us-west-1.amazonaws.com/omunoz7/nyc-parking-tickets-2017.zip
+
+unzip nyc-parking-tickets.zip
