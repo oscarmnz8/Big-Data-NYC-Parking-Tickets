@@ -1,0 +1,15 @@
+stuff = FOREACH data Generate 
+(Summons_No,
+        Plate_ID,
+    State,
+        Plate_Type,
+    Issue_Date, 
+    Vehicle_Body_Type, 
+    Vehicle_make,
+    vehiclecolor,
+    Violation_code,
+    violationlocation,
+    intersectingstreet,
+    violationcounty,
+    violationtime,
+    violationdescription);
