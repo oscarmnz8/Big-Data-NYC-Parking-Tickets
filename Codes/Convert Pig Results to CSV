@@ -1,0 +1,1 @@
+hdfs dfs -cat ./tickets_2017.csv/part* > tick.csv
